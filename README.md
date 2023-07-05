@@ -29,3 +29,10 @@ pip install colorama
 ```
 
 **NOTE: If this does not work, try pip3 instead of pip**
+
+<hr>
+
+### Portable EXE File
+
+I have included an exe portable build in the release page. This exe is built with pyinstaller. If you are not comfortable with Python and you don't want to install it, you have this possibility.
+By using the exe file you don't even need to run the pip install command, just drag and drop your AB file over the exe and that's it!
